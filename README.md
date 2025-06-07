@@ -19,13 +19,13 @@ This project is a simple static blog site built with React and Vite.
 4. Follow link to view site
 
 ## Testing
-- Run `npm test` to execute the Jest suite.
+- Run `npm test` to cover the rendering of <header>, <aside>, <main>, and <article> elements and props functionality.
 
 ## Usage
 - Header: Displays the blog name.
 
 - About: Shows logo and description.
 
-- ArticleList: Renders a list of ** components.
+- ArticleList: Renders a list of **Article** components.
 
 - Article: Displays individual post details.
